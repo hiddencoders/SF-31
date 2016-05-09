@@ -1,0 +1,36 @@
+==================================
+======== COPYRIGHT 2016 ==========
+====== Mark Rakosi 'Haru' ========
+==================================
+
+This is the Crackable Safes v0.7, a BETA version of the final addon.
+
+Build: 301a
+Version: v0.7 BETA
+License: DO NOT REDISTRIBUTE, RESELL OR REVERSE ENGINEER THE PRODUCT. THIS SOFTWARE IS PROVIDED 'AS IT IS' WITHOUT ANY
+WARRANCY. NONE OF THE AUTHORS CAN BE HELD VIABLE FOR ANY DAMAGE CAUSED BY THE PRODUCT, ESPECIALLY IF THE INSTRUCTIONS PROVIDED
+IN THE SOFTWARE'S DOCUMENTATION AND LICENSE HAVE BEEN DISREGARDED. MODIFICATION, PERSONAL USE OR COMMERCIAL USE IS ALLOWED FOR THE
+THE PERSON RECEIVING THIS SOFTWARE AND/OR IT'S PARTS DIRECTLY FROM THE AUTHOR (hereby 'End User').
+THIS SOFTWARE IS BY NO MEANS EXCLUSIVE TO THE END USER, the Author or Authors are allowed to resell or reuse the Software at any times
+without prior notice or without permission from any of the End Users. The Authort or Authors retain the exlusive rights to distribute
+and/or general transfer of their rights to any person or company. BY RECIEVING THIS SOFTWARE FROM THE AUTHOR OR AUTHORS, THE END USER'S
+RIGHT TO USE THE SOFTWARE (including personal and commercial uses) IS UNREVOKABLE BY ANY OWNER OF THE REDISTRIBUTION RIGHTS AS LONG AS
+THE END USER HAS COMPLIED TO THE LICENSE FOUND IN THE SOFTWARE'S DOCUMENTATION.
+
+Installation:
+1. Merge the 'lua', 'models' and 'materials' folders with the ones of your dedicated server.
+2. Set up DarkRP F4 items with the entities and weapons found in the 'lua' folders (ie. class names).
+
+Features:
+-Three tiers of safes
+-Three different tools to crack safes
+-Storage/Interest of money
+-The amount of money contained in the safe can only be seen by the owner.
+-Random chances of early cracks during cracking
+-Highly customizable in the 'init.lua' and the 'shared.lua' files of every entity.
+-2D3D Cam with DarkRP formatting
+-Opening and closing safes
+
+WHAT'S NEW:
+-Minor optimizations
+-SIX NEW UPGRADES
